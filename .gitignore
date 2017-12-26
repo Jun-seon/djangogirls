@@ -5,3 +5,4 @@ dlab
 db.sqlite3
 .DS_Store
 /static
+requirements.txt
